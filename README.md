@@ -1,5 +1,5 @@
 # sql-core-concepts-practice
-SQL PRACTICE REPOSITORY
+### SQL PRACTICE REPOSITORY
 
 This repository contains my practice and implementation of core SQL concepts using structured queries on sample datasets. It covers fundamental database operations across multiple categories:
 
