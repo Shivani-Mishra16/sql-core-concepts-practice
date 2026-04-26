@@ -46,7 +46,18 @@ Used to perform calculations and summarize data.
   * RENAME
   * CHANGE
   * MODIFY
-  * TRUNCATE – Remove all records from a table
+    
+* TRUNCATE – Remove all records from a table
+
+---
+
+### 5. Where Operators
+
+* And – Returns rows when all conditions are true
+* Or – Returns rows when any one condition is true
+* Not – Excludes rows matching a condition
+* In – Check multiple values
+* Between – Check ranges
 
 ---
 
